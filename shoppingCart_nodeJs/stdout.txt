@@ -1,0 +1,16 @@
+  console.log
+    {
+      products: [
+        { name: 'DISNEY CRUELLA© T-SHIRT', category: 'T-SHIRTS' },
+        { name: 'KNIT JOGGING PANTS', category: 'PANTS' },
+        { name: 'ASYMMETRICAL LEATHER SLIDE HEELS', category: 'SHOES' },
+        { name: 'SOFT FLAP BACKPACK', category: 'BAGS' }
+      ],
+      promotion: 'FULL LOOK',
+      totalPrice: '404.96',
+      discountValue: '75.00',
+      discount: '15.63%'
+    }
+
+      at Object.<anonymous> (src/index.js:61:9)
+
