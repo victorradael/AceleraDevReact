@@ -7,7 +7,6 @@ import Filters from "./components/Filters";
 import Topbar from "./components/Topbar";
 
 const App = () => {
-  // Foumulário
   const [search, setSearch] = useState("");
   const [sort, setSort] = useState("name");
 
