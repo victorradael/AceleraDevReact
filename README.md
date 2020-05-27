@@ -15,3 +15,5 @@
 #### [-Shopping Cart NodeJS](./shoppingCart_nodeJs)
 
 #### [-React Contact List](./react_contact)
+
+#### [-Instadev React SPA](./instadev_react_spa)
