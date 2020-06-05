@@ -17,3 +17,5 @@
 #### [-React Contact List](./react_contact)
 
 #### [-Instadev React SPA](./instadev_react_spa)
+
+#### [-Spotify Pocket SPA](./spotify-pocket-spa)
